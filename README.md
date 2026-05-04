@@ -34,15 +34,17 @@ CS50x-2026-handnotes/
 │   └── Chapter-3-Artificial Intelligence.md
 │   ├── Chapter-4-Computer Science.md
 │   ├── Chapter-5-Unary.md
-│   └── Chapter-6-Binary
+│   ├── Chapter-6-Binary
 │   └── ... (continue for all chapters)
 │
 ├── Lecture-1/
 │   ├── Chapter-1-...
 │   ├── Chapter-2-...
+│   └── ...
 │
 ├── Lecture-2/
 │   ├── ...
+│   └── ...
 │
 └── ... (continue for all lectures)
 ```
