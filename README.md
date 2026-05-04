@@ -52,7 +52,7 @@ CS50x-2026-handnotes/
 ├── Lecture-0/
 │   ├── Chapter-1-Introduction.md
 │   ├── Chapter-2-This-is-CS50.md
-│   ├── Chapter-3-Artificial Intelligence.md
+│   ├── Chapter-3-Artificial-Intelligence.md
 │   ├── Chapter-4-Computer-Science.md
 │   ├── Chapter-5-Unary.md
 │   ├── Chapter-6-Binary.md
@@ -104,7 +104,7 @@ By studying these notes, you'll understand:
 | **Lecture 5** | Data Structures |
 | **Lecture 6** | Python |
 | **Lecture 7** | SQL |
-| **AI Special Lecture)** | Artificial Intelligence |
+| **AI Special Lecture** | Artificial Intelligence |
 | **Lecture 8** | HTML, CSS, JavaScript |
 | **Lecture 9** | Flask |
 | **Lecture 10** | The End |
@@ -143,9 +143,9 @@ These notes follow a consistent format:
 
 ## 🔗 External Resources
 
-- [edX CS50x Course](https://www.edx.org/cs50)
-- [CS50x YouTube Channel](https://www.youtube.com/c/cs50)
-- [CS50x web](https://cs50.harvard.edu/x/2026/)
+- [CS50's Website](https://cs50.harvard.edu/x/2026/)
+- [CS50 YouTube Channel](https://www.youtube.com/c/cs50)
+- [CS50 edX](https://www.edx.org/cs50)
 
 ---
 
