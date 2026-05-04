@@ -64,6 +64,8 @@ By studying these notes, you'll understand:
 - Web development basics
 - Database concepts etc.
 
+> **Note:** These notes are based on the [CS50x 2026](https://cs50.harvard.edu/x/2026/) curriculum.
+> 
 ---
 
 ## 📚 Course Curriculum
