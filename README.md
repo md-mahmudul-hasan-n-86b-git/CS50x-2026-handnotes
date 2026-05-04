@@ -104,10 +104,10 @@ By studying these notes, you'll understand:
 | **Lecture 5** | Data Structures |
 | **Lecture 6** | Python |
 | **Lecture 7** | SQL |
-| **AI Special Lecture** | Artificial Intelligence |
+| *Supplementary* | Artificial Intelligence |
 | **Lecture 8** | HTML, CSS, JavaScript |
 | **Lecture 9** | Flask |
-| **Lecture 10** | The End |
+| **Lecture 10** | The End *(Computational Thinking, Recap, Quiz)* |
 
 ---
 
@@ -161,8 +161,8 @@ These notes follow a consistent format:
 
 ## 📊 Statistics
 
-- **Total Lectures**: 12
-- **Total Time**: 24.5+ hours
+- **Total Lectures**: 11 *(+ 1 Supplementary)*
+- **Total Watch Time**: 24.5+ hours
 - **Code Examples**: Included where relevant
 
 ---
