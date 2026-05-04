@@ -1,4 +1,4 @@
-# CS50x 2026 - Comprehensive Handnotes
+# CS50x 2026 - Handnotes
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub](https://img.shields.io/badge/GitHub-cs50x--2026--handnotes-black?logo=github)](https://github.com/md-mahmudul-hasan-n-86b-git/CS50x-2026-handnotes)
