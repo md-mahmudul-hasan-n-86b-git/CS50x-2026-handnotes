@@ -33,7 +33,7 @@
 This repository contains my personal handwritten notes for **CS50x 2026**, covering all lectures, chapters, and programming concepts with my own understanding and detailed explanations. These notes are designed to help students grasp the fundamentals of computer science and programming.
 
 ### What's Included:
-- ✅ lecture notes (Lectures 0-10)
+- ✅ Lecture notes (Lectures 0–10)
 - ✅ Chapter-wise breakdowns
 - ✅ Programming concepts explained
 - ✅ Code examples and references
@@ -51,9 +51,9 @@ CS50x-2026-handnotes/
 │
 ├── Lecture-0/
 │   ├── Chapter-1-Introduction.md
-│   ├── Chapter-2-This is CS50.md
+│   ├── Chapter-2-This-is-CS50.md
 │   ├── Chapter-3-Artificial Intelligence.md
-│   ├── Chapter-4-Computer Science.md
+│   ├── Chapter-4-Computer-Science.md
 │   ├── Chapter-5-Unary.md
 │   ├── Chapter-6-Binary.md
 │   └── ... (continue for all chapters)
@@ -74,7 +74,7 @@ CS50x-2026-handnotes/
 1. Navigate to the lecture folder you're interested in
 2. Open the chapter markdown file (`.md`)
 3. Read the notes and examples
-4. Use these notes as a study guide or reference.
+4. Use these notes as a study guide or reference
 
 ---
 
@@ -104,8 +104,7 @@ By studying these notes, you'll understand:
 | **Lecture 5** | Data Structures |
 | **Lecture 6** | Python |
 | **Lecture 7** | SQL |
-| **Lecture 7** | SQL |
-| **Lecture 7 (AI Special)** | Artificial Intelligence |
+| **AI Special Lecture)** | Artificial Intelligence |
 | **Lecture 8** | HTML, CSS, JavaScript |
 | **Lecture 9** | Flask |
 | **Lecture 10** | The End |
@@ -144,9 +143,9 @@ These notes follow a consistent format:
 
 ## 🔗 External Resources
 
-- [Official CS50x Course](https://www.edx.org/cs50)
+- [edX CS50x Course](https://www.edx.org/cs50)
 - [CS50x YouTube Channel](https://www.youtube.com/c/cs50)
-- [CS50xweb](https://cs50.harvard.edu/x/2026/)
+- [CS50x web](https://cs50.harvard.edu/x/2026/)
 
 ---
 
