@@ -7,6 +7,27 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [Overview](#-overview)
+- [Repository Structure](#-repository-structure)
+- [Learning Outcomes](#-learning-outcomes)
+- [Course Curriculum](#-course-curriculum)
+- [How to Get Started](#-how-to-get-started)
+- [Note-Taking Style](#-note-taking-style)
+- [External Resources](#-external-resources)
+- [Features](#-features)
+- [Statistics](#-statistics)
+- [How to Use These Notes](#-how-to-use-these-notes)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [About These Notes](#-about-these-notes)
+- [Updates & Improvements](#-updates--improvements)
+- [Contact & Questions](#-contact--questions)
+- [Show Your Support](#-show-your-support)
+
+---
+
 ## 📖 Overview
 
 This repository contains my personal handwritten notes for **CS50x 2026**, covering all lectures, chapters, and programming concepts with my own understanding and detailed explanations. These notes are designed to help students grasp the fundamentals of computer science and programming.
@@ -53,7 +74,7 @@ CS50x-2026-handnotes/
 1. Navigate to the lecture folder you're interested in
 2. Open the chapter markdown file (`.md`)
 3. Read the notes and examples
-4. Use as a study guide or reference
+4. Use these notes as a study guide or reference.
 
 ---
 
@@ -123,9 +144,9 @@ These notes follow a consistent format:
 
 ## 🔗 External Resources
 
-- [Official CS50x Course](https://cs50.harvard.edu/)
+- [Official CS50x Course](https://www.edx.org/cs50)
 - [CS50x YouTube Channel](https://www.youtube.com/c/cs50)
-- [CS50x web](https://cs50.harvard.edu/x/2026/)
+- [CS50xweb](https://cs50.harvard.edu/x/2026/)
 
 ---
 
@@ -178,7 +199,7 @@ This means you can:
 
 ## 👨‍💻 About These Notes
 
-Created by **Md Mahmudul Hasan**, Student of Daffodil International University (BSc in CSE), Bangladesh as part of pursuing CS50x 2026 from Harvard University.
+Created by **Md Mahmudul Hasan**, a BSc in Computer Science and Engineering (CSE) student at Daffodil International University (DIU), Bangladesh.
 
 These notes represent my personal understanding and learning journey through one of the world's most rigorous computer science courses.
 
