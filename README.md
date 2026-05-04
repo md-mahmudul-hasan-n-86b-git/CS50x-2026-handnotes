@@ -175,7 +175,7 @@ This means you can:
 
 ## 👨‍💻 About These Notes
 
-Created by **Md Mahmudul Hasan, Student of Daffodil International University (BSc in CSE), Bangladesh** as part of pursuing CS50x 2026 from Harvard University.
+Created by **Md Mahmudul Hasan**, Student of Daffodil International University (BSc in CSE), Bangladesh as part of pursuing CS50x 2026 from Harvard University.
 
 These notes represent my personal understanding and learning journey through one of the world's most rigorous computer science courses.
 
