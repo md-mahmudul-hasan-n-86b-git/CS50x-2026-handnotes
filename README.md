@@ -31,7 +31,7 @@ CS50x-2026-handnotes/
 ├── Lecture-0/
 │   ├── Chapter-1-Introduction.md
 │   ├── Chapter-2-This is CS50.md
-│   └── Chapter-3-Artificial Intelligence.md
+│   ├── Chapter-3-Artificial Intelligence.md
 │   ├── Chapter-4-Computer Science.md
 │   ├── Chapter-5-Unary.md
 │   ├── Chapter-6-Binary
