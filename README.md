@@ -12,7 +12,7 @@
 This repository contains my personal handwritten notes for **CS50x 2026**, covering all lectures, chapters, and programming concepts with my own understanding and detailed explanations. These notes are designed to help students grasp the fundamentals of computer science and programming.
 
 ### What's Included:
-- ✅ Complete lecture notes (Lectures 0-10)
+- ✅ lecture notes (Lectures 0-10)
 - ✅ Chapter-wise breakdowns
 - ✅ Programming concepts explained
 - ✅ Code examples and references
@@ -34,7 +34,7 @@ CS50x-2026-handnotes/
 │   ├── Chapter-3-Artificial Intelligence.md
 │   ├── Chapter-4-Computer Science.md
 │   ├── Chapter-5-Unary.md
-│   ├── Chapter-6-Binary
+│   ├── Chapter-6-Binary.md
 │   └── ... (continue for all chapters)
 │
 ├── Lecture-1/
@@ -63,7 +63,7 @@ By studying these notes, you'll understand:
 - Computational thinking and problem-solving
 - Programming fundamentals (C, Python, SQL, JavaScript, CSS, HTML)
 - Data structures and algorithms
-- Artificial Intelligence 
+- Artificial intelligence (fundamentals)
 - Web development basics
 - Database concepts etc.
 
@@ -83,7 +83,8 @@ By studying these notes, you'll understand:
 | **Lecture 5** | Data Structures |
 | **Lecture 6** | Python |
 | **Lecture 7** | SQL |
-| **Lecture 7 (special)** | Artificial Intelligence |
+| **Lecture 7** | SQL |
+| **Lecture 7 (AI Special)** | Artificial Intelligence |
 | **Lecture 8** | HTML, CSS, JavaScript |
 | **Lecture 9** | Flask |
 | **Lecture 10** | The End |
@@ -124,7 +125,7 @@ These notes follow a consistent format:
 
 - [Official CS50x Course](https://cs50.harvard.edu/)
 - [CS50x YouTube Channel](https://www.youtube.com/c/cs50)
-- [CS50x web](https://cs50.harvard.edu/x/)
+- [CS50x web](https://cs50.harvard.edu/x/2026/)
 
 ---
 
@@ -142,8 +143,7 @@ These notes follow a consistent format:
 
 - **Total Lectures**: 10
 - **Total Chapters**: 100+
-- **Code Examples**: (coming soon)
-- **Last Updated**: May 2026
+- **Code Examples**: Included where relevant
 
 ---
 
@@ -187,8 +187,6 @@ These notes represent my personal understanding and learning journey through one
 ## 🔔 Updates & Improvements
 
 I continuously review and improve these notes as I progress through CS50x. Subscribe to this repository to stay updated!
-
-**Last Updated**: May 2026
 
 ---
 
