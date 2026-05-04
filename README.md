@@ -197,7 +197,7 @@ This means you can:
 
 ---
 
-## 👨‍💻 About These Notes
+## 👤 About These Notes
 
 Created by **Md Mahmudul Hasan**, a BSc in Computer Science and Engineering (CSE) student at Daffodil International University (DIU), Bangladesh.
 
