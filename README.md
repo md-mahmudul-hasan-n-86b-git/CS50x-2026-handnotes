@@ -161,8 +161,8 @@ These notes follow a consistent format:
 
 ## 📊 Statistics
 
-- **Total Lectures**: 10
-- **Total Chapters**: 100+
+- **Total Lectures**: 11
+- **Total Time**: 24.5+ hours
 - **Code Examples**: Included where relevant
 
 ---
@@ -186,7 +186,7 @@ While this is a personal learning project, if you find errors or have suggestion
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://opensource.org/license/mit) file for details.
 
 This means you can:
 - ✅ Use these notes for personal learning
