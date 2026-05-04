@@ -61,6 +61,7 @@ By studying these notes, you'll understand:
 - Computational thinking and problem-solving
 - Programming fundamentals (C, Python, SQL, JavaScript, CSS, HTML)
 - Data structures and algorithms
+- Artificial Intelligence 
 - Web development basics
 - Database concepts etc.
 
