@@ -84,9 +84,9 @@ By studying these notes, you'll understand:
 - Computational thinking and problem-solving
 - Programming fundamentals (C, Python, SQL, JavaScript, CSS, HTML)
 - Data structures and algorithms
-- Artificial intelligence (fundamentals)
+- Artificial intelligence fundamentals
 - Web development basics
-- Database concepts etc.
+- Database concepts
 
 > **Note:** These notes are based on the [CS50x 2026](https://cs50.harvard.edu/x/2026/) curriculum.
 > 
@@ -104,7 +104,7 @@ By studying these notes, you'll understand:
 | **Lecture 5** | Data Structures |
 | **Lecture 6** | Python |
 | **Lecture 7** | SQL |
-| *Supplementary* | Artificial Intelligence |
+| **Supplementary** | Artificial Intelligence |
 | **Lecture 8** | HTML, CSS, JavaScript |
 | **Lecture 9** | Flask |
 | **Lecture 10** | The End *(Computational Thinking, Recap, Quiz)* |
@@ -161,7 +161,7 @@ These notes follow a consistent format:
 
 ## 📊 Statistics
 
-- **Total Lectures**: 11 *(+ 1 Supplementary)*
+- **Total Lectures**: 11 + 1 Supplementary
 - **Total Watch Time**: 24.5+ hours
 - **Code Examples**: Included where relevant
 
