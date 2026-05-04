@@ -145,7 +145,7 @@ These notes follow a consistent format:
 
 - [CS50's Website](https://cs50.harvard.edu/x/2026/)
 - [CS50 YouTube Channel](https://www.youtube.com/c/cs50)
-- [CS50 edX](https://www.edx.org/cs50)
+- [CS50 on edX](https://www.edx.org/cs50)
 
 ---
 
