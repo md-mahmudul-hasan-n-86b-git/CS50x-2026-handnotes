@@ -201,7 +201,7 @@ This means you can:
 
 Created by **Md Mahmudul Hasan**, a BSc in Computer Science and Engineering (CSE) student at Daffodil International University (DIU), Bangladesh.
 
-These notes represent my personal understanding and learning journey through one of the world's most rigorous computer science courses.
+> **Disclaimer:** These notes are unofficial and based on my personal understanding of the CS50x course. They are intended as supplementary material and should not replace the official course content.
 
 ---
 
