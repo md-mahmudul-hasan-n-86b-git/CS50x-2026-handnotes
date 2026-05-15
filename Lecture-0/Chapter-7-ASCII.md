@@ -18,7 +18,7 @@ Many years ago, a group of researchers in America sat together and established t
 |----------------|---------|-------------------------------|
 | `01000001` | 65 | Letter **"A"** |
 
-> **💡 Note:** The same binary pattern can mean **different things** in different programs. For example, the pattern `01000001` (65) represents the letter **"A"** in a word processing program — but that same pattern might represent a specific **colour** in an image editing program.
+The same binary pattern can mean **different things** in different programs. For example, the pattern `01000001` (65) represents the letter **"A"** in a word processing program — but that same pattern might represent a specific **colour** in an image editing program.
 
 This is precisely why a file of a specific format can only be opened correctly by specific software:
 - A **Word file** → opens in Microsoft Word or Google Docs
