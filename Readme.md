@@ -186,7 +186,7 @@ While this is a personal learning project, if you find errors or have suggestion
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](License) file for details.
+This project is licensed under the **MIT License** - see the [License](License) file for details.
 
 This means you can:
 - ✅ Use these notes for personal learning
